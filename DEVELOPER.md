@@ -35,6 +35,7 @@ Provides the static UI zone primitives used by simpler host surfaces that need b
 | Package ID | `ui-zone-static` |
 | Display Name | UI Zone Static |
 | Import Name | `@platform/ui-zone-static` |
+| Canonical Namespace Target | `@gutu/ui-zone-static` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides the static UI zone primitives used by simpler host surfaces that need b
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/ui-zone-static` |
 
 ### Dependency interpretation
 

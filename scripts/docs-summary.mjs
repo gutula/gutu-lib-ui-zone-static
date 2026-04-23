@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui-zone-static",
   "packageId": "ui-zone-static",
   "displayName": "UI Zone Static",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Baseline",
   "description": "Static React zone adapter.",
